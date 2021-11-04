@@ -1,7 +1,7 @@
 # validation-exmaple
 
 ## Using express-validator
-In this example we're using express validator to validat our information.
+In this example we're using express validator to validate our information.
 
 ## To run this project 
 Type `npm install` to get started. 
