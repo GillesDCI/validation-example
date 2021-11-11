@@ -1,4 +1,4 @@
-# validation-exmaple
+# validation-example
 
 ## Using express-validator
 In this example we're using express validator to validate our information.
